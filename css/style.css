@@ -1,0 +1,201 @@
+body {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+header {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+main {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+article {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+section {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+aside {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h4 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+p {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+div {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+li {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+a {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+img {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+i {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+span {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+strong {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+big {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+small {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+em {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+ol {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+dl {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+dt {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+dd {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+table {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+tr {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+th {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+td {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+form {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+input {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+textarea {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+select {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+option {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+button {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+figure {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+figcaption {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+label {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+svg {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg1 {
+  color: black;
+  background: rgba(255, 99, 71, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg2 {
+  color: black;
+  background: rgba(135, 206, 235, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg3 {
+  color: black;
+  background: rgba(144, 238, 144, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg4 {
+  color: black;
+  background: rgba(210, 180, 140, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg5 {
+  color: black;
+  background: rgba(255, 182, 193, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+/************************************************************************/
+/*  END OF FILE                                       									*/
+/************************************************************************/
+/************************************************************************/
+/*  END OF FILE                                       									*/
+/************************************************************************/
+/*# sourceMappingURL=style.css.map */
